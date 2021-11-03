@@ -12,3 +12,4 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="/assets/img/fraud_detection.jpg"/></center>
 
 ---
+<center><img src="/assets/img/logo.png"/></center>
